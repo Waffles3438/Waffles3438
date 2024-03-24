@@ -3,7 +3,7 @@
 - ☕ Learning Java
 - 🎮 I play Minecraft, Genshin Impact and Honkai Star Rail
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/442126761652649994?showDisplayName=true&idleMessage=:Coffee%20Language)](https://discord.com/users/442126761652649994)
+[![Discord Presence](https://lanyard.cnrad.dev/api/442126761652649994?showDisplayName=true&idleMessage=:i%20love%20pecan)](https://discord.com/users/442126761652649994)
 
 <!--
 **Waffles3438/Waffles3438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

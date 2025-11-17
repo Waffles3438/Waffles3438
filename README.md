@@ -2,6 +2,7 @@
 
 - ☕ Learning Java
 - 🎮 I play Minecraft, Genshin Impact and Honkai Star Rail
+- 🌱 I make silly and useless Minecraft mods
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/442126761652649994?showDisplayName=true&idleMessage=86%20is%20peak%20fiction)](https://discord.com/users/442126761652649994)
 

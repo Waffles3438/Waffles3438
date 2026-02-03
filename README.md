@@ -1,6 +1,6 @@
 ### Hello, I'm Waffles! 🧇
 
-- ☕ Learning Java
+- ☕ Learning Java and C
 - 🎮 I play Minecraft, Genshin Impact and Honkai Star Rail
 - 🌱 I make silly and useless Minecraft mods
   

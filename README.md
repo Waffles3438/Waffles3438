@@ -1,7 +1,7 @@
 ### Hello, I'm Waffles! 🧇
 
-- ☕ Learning Java and C
-- 🎮 I play Minecraft and Genshin Impact
+- ☕ Learning Java, C/C++ and Verilog
+- 🤖 I enjoy vibe coding random projects that make my life easier 
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/442126761652649994?showDisplayName=true&idleMessage=86%20is%20peak%20fiction)](https://discord.com/users/442126761652649994)
 
